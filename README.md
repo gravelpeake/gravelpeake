@@ -15,14 +15,14 @@
 ⠀⠺⣧⡀⢠⣀⠀⠀⣀⣟⠛⠛⣧⣄⡀⠀⠀⣸⡇⠀⣿⠉⠀⠀⠀⠀
 ⠀⠀⠀⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀⠀
 
-# Anyway, I'm new to GitHub. I don't have a ton of coding
-# experience, but I've done enough to get things accomplished
-# in bash and python.
+Anyway, I'm new to GitHub. I don't have a ton of coding
+experience, but I've done enough to get things accomplished
+in bash and python.
 
-As suggested:
+## As suggested:
 👯 I’m looking to collaborate with my students and the CSEDD
 
-## We're gonna learn a ton, I hope!
+# We're gonna learn a ton, I hope!
 
 
 <!--
