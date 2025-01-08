@@ -29,6 +29,9 @@ with my students and the CSEDD
 
 **gravelpeake/gravelpeake** is a ✨ _special_ ✨ repository because, it is.
 
+*Oh, have you checked out my personal website, by the way?*
+https://TrevorAmesGregg.com
+
 <!--
 **gravelpeake/gravelpeake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
